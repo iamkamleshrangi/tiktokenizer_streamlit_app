@@ -2,7 +2,7 @@
 
 A simple and elegant Streamlit web app to visualize how OpenAI models tokenize your input using [tiktoken](https://github.com/openai/tiktoken). See your text broken into tokens with color-coded highlights, token IDs, and live updates as you type.
 
----
+![App Screenshot](screenshot/portal_view.png)
 
 ## ✨ Features
 
@@ -13,7 +13,6 @@ A simple and elegant Streamlit web app to visualize how OpenAI models tokenize y
 - 🔍 **Whitespace Visualization** – Toggle to make spaces/newlines visible
 - ⚡ **Fast and lightweight** – Built with Python, Streamlit, and tiktoken
 
----
 
 ## 🚀 Getting Started
 
@@ -43,7 +42,6 @@ Then visit http://localhost:8501 in your browser.
 
 # 🧠 Supported Models
 This app supports the following OpenAI models via the `tiktoken` tokenizer library:
----
 
 ### 🔮 GPT Series
 
@@ -55,7 +53,6 @@ This app supports the following OpenAI models via the `tiktoken` tokenizer libra
 
 These models are commonly used for natural language processing, chatbots, and reasoning tasks.
 
----
 
 ### 🧬 Embedding Models
 
@@ -65,7 +62,6 @@ These models are commonly used for natural language processing, chatbots, and re
 
 These models are optimized for generating vector embeddings for text similarity, clustering, and semantic search.
 
----
 
 ### 📌 Notes
 - Tokenizer behavior may vary slightly between models.
