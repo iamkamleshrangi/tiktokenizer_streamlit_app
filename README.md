@@ -2,7 +2,7 @@
 
 A simple and elegant Streamlit web app to visualize how OpenAI models tokenize your input using [tiktoken](https://github.com/openai/tiktoken). See your text broken into tokens with color-coded highlights, token IDs, and live updates as you type.
 
-![App Screenshot](screenshot/portal_view.png)
+![App Screenshot](screenshots/portal_view.png)
 
 ## ✨ Features
 
